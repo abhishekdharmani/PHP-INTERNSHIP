@@ -1,0 +1,9 @@
+task 3:
+
+Same as Video..
+Registration Form: Get Post Method
+Take 5 subject Marks 
+	diaplay all marks
+	total > 
+	condition > 80 first > 70 second > 50 pass
+	%
